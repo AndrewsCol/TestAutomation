@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demoblaze.DemoBlaze" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-09T12:44:32" hostname="LAPTOP-OEHP5572" time="30.718">
+  <properties/>
+  <testcase name="search" classname="com.demoblaze.DemoBlaze" time="30.718"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 33697
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1646829874.279][WARNING]: This version of ChromeDriver has not been tested with Chrome version 99.
+Mar 09, 2022 7:44:34 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
